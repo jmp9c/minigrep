@@ -1,0 +1,1 @@
+/Users/john/Developer/rust/minigrep/minigrep/target/debug/minigrep-45dd163a812a15f2.dSYM: /Users/john/Developer/rust/minigrep/minigrep/src/lib.rs /Users/john/Developer/rust/minigrep/minigrep/src/main.rs
